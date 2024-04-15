@@ -3,7 +3,6 @@
 ### <img src="https://media.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="60px"> Witam, jestem Sebastian!
 
 
-Obecnie znajduję się na drugim roku studiów informatycznych i od dwóch lat douczam się w kierunku Frontend Deweloper. Jestem osobą zdyscyplinowaną i pracowitą dlatego nie ma dla mnie celu nie do osiągnięcia. Posiadam siedmioletnie doświadczenie w pracy z zasobami ludzkimi i zarządzaniem co pozwoliło mi rozwinąć umiejętności interpersonalne do poziomu zaawansowanego które są istotne w pracy w z zespołem jak i również z klientem. Mam szeroką wiedzę ogólną w dziedzinie IT dzięki czemu potrafię dobrze interpretować problemy techniczne. Wykazuję ogromną bystrość umysłu w rozwiązywaniu problemów. Odpowiedzialność to moje drugie imię 😊.<br><br>
 
 👉 **Obecnie pracuję jako Front-end Developer.**
 
